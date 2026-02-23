@@ -236,13 +236,24 @@ This project is available for educational purposes.
 
 ## 👨‍💻 Author
 
-Created as an advanced data structures project demonstrating practical applications of RBT and Heap data structures in a real-world scenario.
+<div align="center">
+
+### **[Aniruddh Atrey](https://www.aniruddhatrey.com)**
+
+**AI Engineer | Cybersecurity Expert | SaaS Entrepreneur**
+
+MS Computer Science, University of Florida | Created as an advanced data structures project at UF
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-aniruddhatrey.com-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://www.aniruddhatrey.com)
+[![Hire Me](https://img.shields.io/badge/Hire_Me-Services-9933ff?style=for-the-badge&logo=rocket&logoColor=white)](https://www.aniruddhatrey.com/services)
+[![MetaMinds](https://img.shields.io/badge/MetaMinds-AI_Agency-00ff88?style=for-the-badge&logo=brain&logoColor=white)](https://metaminds.firm.in)
 
 ---
 
-<div align="center">
+**Want to build something like this — or better?**
+[**aniruddhatrey.com**](https://www.aniruddhatrey.com) | [**metaminds.firm.in**](https://metaminds.firm.in)
 
-**Built with ❤️ using C++ and Advanced Data Structures**
+*Co-Founder & COO @ [F1Jobs.io](https://f1jobs.io) | Founder & CTO @ [MetaMinds](https://metaminds.firm.in)*
 
 ⭐ Star this repo if you find it helpful!
 
